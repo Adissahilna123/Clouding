@@ -7,7 +7,7 @@
   
   **Platform cloud computing modern dengan teknologi Docker Container untuk transformasi digital Indonesia**
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/Kentox493/clouding)
+  [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/Adissahilna/clouding)
   [![Deploy VPS](https://img.shields.io/badge/Deploy-VPS-green?style=for-the-badge)](https://dosnet.my.id/cgi-bin/form.sh)
   [![Website](https://img.shields.io/badge/Website-Live-orange?style=for-the-badge)](https://clouding.biz.id)
   [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
@@ -86,7 +86,7 @@ Pastikan Anda memiliki software berikut terinstall:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Kentox493/clouding.git
+git clone https://github.com/Adissahilna/Clouding.git
 cd clouding
 
 # 2. Install dependencies
@@ -171,7 +171,7 @@ sudo apt update
 sudo apt install nginx nodejs npm
 
 # Clone & build project
-git clone https://github.com/Kentox493/clouding.git
+git clone https://github.com/Adissahilna/Clouding.git
 cd clouding
 npm install
 npm run build
@@ -289,7 +289,7 @@ git push origin feature/amazing-feature
 
 ### 🌐 Links
 - **Website**: [clouding.biz.id](https://clouding.biz.id)
-- **GitHub**: [github.com/Kentox493/clouding](https://github.com/Kentox493/clouding)
+- **GitHub**: [github.com/Adissahilna/Clouding](https://github.com/Adissahilna/Clouding)
 - **Documentation**: [docs.clouding.biz.id](https://docs.clouding.biz.id)
 - **Status Page**: [status.clouding.biz.id](https://status.clouding.biz.id)
 - **Deploy VPS**: [Deploy Now](https://dosnet.my.id/cgi-bin/form.sh)
@@ -311,10 +311,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎯 Project Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/Kentox493/clouding?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/Kentox493/clouding?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/issues/Kentox493/clouding" alt="GitHub Issues">
-  <img src="https://img.shields.io/github/license/Kentox493/clouding" alt="License">
+  <img src="https://img.shields.io/github/stars/Adissahilna/clouding?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/Adissahilna/clouding?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/Adissahilna/clouding" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/license/Adissahilna/clouding" alt="License">
 </div>
 
 ---
