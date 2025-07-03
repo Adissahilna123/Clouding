@@ -30,13 +30,13 @@ const About = () => {
       role: "Marketing Spesialist",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
       description: "Memastikan produk dapat diminati pelanggan"
-    }
+    },
     {
       name: "Aji Bayu Wicaksono",
       role: "Marketing Spesialist",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
       description: "Memastikan produk dapat diminati pelanggan"
-    }
+    },
     {
       name: "Amirullah ahnaf agil",
       role: "Marketing Spesialist",
